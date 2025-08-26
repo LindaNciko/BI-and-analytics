@@ -33,10 +33,4 @@ Some of the types of dashboards included across repositories:
 - **Sustainability & Impact** → Climate resilience, development outcomes, program monitoring  
 - **Operations & Risk** → Branch performance, fraud detection, compliance monitoring  
 
----
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
 
