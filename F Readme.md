@@ -82,4 +82,3 @@ The dashboard provides interactive filtering across three customer segments: **C
 - **Dashboard Preview**:  
   ![Dashboard Preview](dashboard_image.png)  
 
-
