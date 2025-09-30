@@ -78,7 +78,7 @@ The dashboard provides interactive filtering across three customer segments: **C
 ---
 
 ## 📂 Supporting Resources  
-- **Dataset Snapshot**: [🔗 Link to Data](#)  
+- **Dataset Snapshot**: [🔗 Link to Data](https://github.com/rubytechme/Market-Sales-Performance-Furniture-Store)  
 - **Dashboard Preview**:  
   ![Dashboard Preview](dashboard_image.png)  
 
