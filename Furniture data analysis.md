@@ -1,0 +1,85 @@
+# 📊 Furniture Sales Data Analysis – US Market  
+
+## 📌 Overview  
+This project analyzes sales, profit, and quantity trends from a furniture dataset in the United States.  
+The dashboard provides interactive filtering across three customer segments: **Consumer, Corporate, and Home Office**.  
+
+> ℹ️ The results in this README reflect the **Consumer segment** (selected via dashboard slicer).  
+> A snapshot of the dataset and a preview image of the dashboard are included as supporting resources.  
+![Dashboard Final](https://github.com/LindaNciko/Images/raw/52198df6699f10d60fbd349d41d4399bcdf75663/Dashbord%20Final.png)
+---
+
+## 📈 Key Metrics (Consumer Segment)  
+- **Total Sales**: **$742,000**  
+- **Total Quantity Sold**: **8,028 units**  
+- **Total Profit**: **$18,451**  
+
+---
+
+## 📅 Monthly Sales Trend  
+- **September Sales**: $64,979  
+- **January Sales**: $21,141  
+
+➡️ Consumer sales show strong seasonal variation, with September sales more than **3x higher** than January.  
+
+---
+
+## 🌍 Sales by State  
+- **California**: $76,460 (highest contributor)  
+- **Kansas**: $71 (lowest contributor)  
+
+➡️ Sales are concentrated in a few states, with wide disparities in revenue distribution.  
+
+---
+
+## 🛋️ Profit Margin by Sub-Category  
+- **Bookcases & Tables**: -16% (loss-making categories)  
+- **Chairs**: +4%  
+- **Furnishings**: +13% (highest margin)  
+
+➡️ Despite generating sales, **bookcases and tables consistently erode profitability**. Furnishings contribute positively to margins.  
+
+---
+
+## 📊 Yearly Comparison: Sales vs Profit  
+
+| Year | Sales ($) | Profit ($) |
+|------|-----------|------------|
+| 2014 | 86,061    | 1,636      |
+| 2015 | 94,410    | -1,322     |
+| 2016 | 100,361   | 4,605      |
+| 2017 | 110,218   | 2,072      |
+| **Total** | **391,049** | **6,991** |
+
+➡️ While sales steadily increased year-over-year, **profitability fluctuated**, with a **net loss in 2015** but recovery afterward.  
+
+---
+
+## 👥 Sales by Segment (Dashboard Slicer Options)  
+
+| Segment      | Sales ($) |
+|--------------|-----------|
+| Consumer     | 391,049   |
+| Corporate    | *(available in dashboard)* |
+| Home Office  | *(available in dashboard)* |
+| **Total**    | *(combined view in dashboard)* |
+
+➡️ This README highlights **Consumer results only**. Corporate and Home Office insights can be explored directly in the dashboard.  
+
+---
+
+## 📌 Insights & Recommendations  
+
+1. **Profitability Issue**: Bookcases and tables are loss-making categories. Reassess pricing, discounts, or supplier terms.  
+2. **Regional Opportunity**: Some states (e.g., Kansas) contribute negligible sales. Targeted promotions may improve regional performance.  
+3. **Seasonal Demand**: September peaks indicate opportunities for back-to-school / office setup campaigns.  
+4. **Segment Diversification**: Current focus is on Consumers. Expanding Corporate and Home Office segments could unlock additional growth.  
+
+---
+
+## 📂 Supporting Resources  
+- **Dataset Snapshot**: [🔗 Link to Data](https://github.com/rubytechme/Market-Sales-Performance-Furniture-Store)  
+- **Dashboard Preview**:  
+  ![Dashboard Preview](dashboard_image.png)  
+
+
