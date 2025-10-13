@@ -1,4 +1,4 @@
-# 🧥 USA Wears Sales Power BI Dashboard (2021–2024)
+# USA Wears Sales Power BI Dashboard (2021–2024)
 
 ![USA Wears Overview](https://github.com/LindaNciko/Images/blob/main/USA%20Wears%20Overview.png)
 
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/🔗 Explore%20Dashboard%20Live-blue?style=for-the-badge&logo=powerbi" alt="Explore Dashboard Live">
   </a>
 </p>
----
+
 
 ## 📘 Project Overview
 This Power BI dashboard visualizes **US Wears Sales Performance (2021–2024)**, focusing on **2022** for detailed analysis.  
