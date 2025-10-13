@@ -187,7 +187,7 @@ Margins across all channels are **well-balanced around 30%**.
 You can explore the interactive dashboard here:  
 🔗 **[Open in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMWRhMDAwYzMtNGUzNi00M2VlLWEzMDQtMzBkZDA5N2NmZjg5IiwidCI6ImE0NjIyOWM3LTIxZDEtNDE3ZC1hMWNiLTE4NTdhMDdkMjc2NSIsImMiOjh9&pageName=aa222d1e2d133e37710a)**
 
-** [The dataset used](https://docs.google.com/spreadsheets/d/1Tzrk-p63jeNhGdY3hN_wgrmj81IpUHRPE-3FwFlDhDU/edit?usp=drive_link)**
+[The dataset used](https://docs.google.com/spreadsheets/d/1Tzrk-p63jeNhGdY3hN_wgrmj81IpUHRPE-3FwFlDhDU/edit?usp=drive_link)
 ---
 
 ⭐ *If you found this project insightful, feel free to star the repo and connect!*
