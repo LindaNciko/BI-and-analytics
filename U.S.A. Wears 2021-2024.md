@@ -5,9 +5,7 @@ This Power BI project analyzes sales performance for **USA Wears**, a fashion an
 The dashboard provides **real-time insights** into sales, profit, customer distribution, and product performance — helping to optimize marketing, pricing, and inventory strategies.
 
 🔗 **Live Dashboard:**  
-<iframe title="wears_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=..." frameborder="0" allowFullScreen="true"></iframe>
-
-
+<iframe title="wears_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWRhMDAwYzMtNGUzNi00M2VlLWEzMDQtMzBkZDA5N2NmZjg5IiwidCI6ImE0NjIyOWM3LTIxZDEtNDE3ZC1hMWNiLTE4NTdhMDdkMjc2NSIsImMiOjh9&pageName=aa222d1e2d133e37710a" frameborder="0" allowFullScreen="true"></iframe>
 ---
 
 ## 🧠 Objective
