@@ -1,14 +1,14 @@
 # 🧥 USA Wears Sales Power BI Dashboard (2021–2024)
 
+![USA Wears Overview](https://github.com/LindaNciko/Images/blob/main/USA%20Wears%20Overview.png)
+
 <iframe title="wears_dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWRhMDAwYzMtNGUzNi00M2VlLWEzMDQtMzBkZDA5N2NmZjg5IiwidCI6ImE0NjIyOWM3LTIxZDEtNDE3ZC1hMWNiLTE4NTdhMDdkMjc2NSIsImMiOjh9&pageName=aa222d1e2d133e37710a" frameborder="0" allowFullScreen="true"></iframe>
 
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiMWRhMDAwYzMtNGUzNi00M2VlLWEzMDQtMzBkZDA5N2NmZjg5IiwidCI6ImE0NjIyOWM3LTIxZDEtNDE3ZC1hMWNiLTE4NTdhMDdkMjc2NSIsImMiOjh9&pageName=aa222d1e2d133e37710a" target="_blank">
-    <img src="https://img.shields.io/badge/🔍 Explore%20Dashboard%20Live-blue?style=for-the-badge" alt="Explore Dashboard Live">
+    <img src="https://img.shields.io/badge/🔗 Explore%20Dashboard%20Live-blue?style=for-the-badge&logo=powerbi" alt="Explore Dashboard Live">
   </a>
 </p>
-
-
 ---
 
 ## 📘 Project Overview
