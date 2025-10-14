@@ -3,7 +3,7 @@
 ![USA Wears Overview](https://github.com/LindaNciko/Images/blob/main/USA%20Wears%20Overview.png)
 
 <p align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiMWRhMDAwYzMtNGUzNi00M2VlLWEzMDQtMzBkZDA5N2NmZjg5IiwidCI6ImE0NjIyOWM3LTIxZDEtNDE3ZC1hMWNiLTE4NTdhMDdkMjc2NSIsImMiOjh9&pageName=aa222d1e2d133e37710a" target="_blank">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiODIyNGI3NzctODRhNS00ZGFlLThiZjgtYzdlZmE2ZTFiMjhhIiwidCI6IjViMzAzNTE2LWYyYjEtNGZmNi05NmFkLTU5NDViNjM3MzZiMSIsImMiOjh9&pageName=aa222d1e2d133e37710a" target="_blank">
     <img src="https://img.shields.io/badge/🔗 Explore%20Dashboard%20Live-blue?style=for-the-badge&logo=powerbi" alt="Explore Dashboard Live">
   </a>
 </p>
@@ -185,7 +185,7 @@ Margins across all channels are **well-balanced around 30%**.
 
 ## 📎 Dashboard Access
 You can explore the interactive dashboard here:  
-🔗 **[Open in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMWRhMDAwYzMtNGUzNi00M2VlLWEzMDQtMzBkZDA5N2NmZjg5IiwidCI6ImE0NjIyOWM3LTIxZDEtNDE3ZC1hMWNiLTE4NTdhMDdkMjc2NSIsImMiOjh9&pageName=aa222d1e2d133e37710a)**
+🔗 **[Open in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiODIyNGI3NzctODRhNS00ZGFlLThiZjgtYzdlZmE2ZTFiMjhhIiwidCI6IjViMzAzNTE2LWYyYjEtNGZmNi05NmFkLTU5NDViNjM3MzZiMSIsImMiOjh9&pageName=aa222d1e2d133e37710a)**
 
 [The dataset used](https://docs.google.com/spreadsheets/d/1Tzrk-p63jeNhGdY3hN_wgrmj81IpUHRPE-3FwFlDhDU/edit?usp=drive_link)
 ---
