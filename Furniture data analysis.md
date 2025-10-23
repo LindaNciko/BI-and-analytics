@@ -6,7 +6,7 @@ The dashboard provides interactive filtering across three customer segments: **C
 
 > ℹ️ The results in this README reflect the **Consumer segment** (selected via dashboard slicer).  
 > A snapshot of the dataset and a preview image of the dashboard are included as supporting resources.  
-![Dashboard Final](https://github.com/LindaNciko/Images/raw/52198df6699f10d60fbd349d41d4399bcdf75663/Dashbord%20Final.png)
+![Dashboard Final](https://github.com/LindaNciko/Images/blob/main/Dashbord.png)
 ---
 
 ## 📈 Key Metrics (Consumer Segment)  
